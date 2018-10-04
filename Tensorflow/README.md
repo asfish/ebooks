@@ -2,8 +2,6 @@
 
 This is a curated collection of free Tensorflow related eBooks available on the Internet. Please feel free to share and learn.
 
-You may visit [**Free-Machine-Learning-Books**](https://github.com/TechBookHunter/Free-Machine-Learning-Books) for Machine Learning content and [**Free-Deep-Learning-Books**](https://github.com/TechBookHunter/Free-Deep-Learning-Books) for Deep Learning.
-
 If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
 
 **Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
